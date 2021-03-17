@@ -5,4 +5,5 @@ show_downloads: false
 github:
   repository_url: https://github.com/Pragnyayadav/Project-K9ine
   discord_url: https://discord.gg/
+cur_ver: 1.2
 theme: jekyll-theme-cayman
